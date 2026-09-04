@@ -32,8 +32,35 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
-  }
- ];
+  },
+ {
+  "id": "juan-camilo-villanueva-montoya",
+  "nombreCompleto": "Juan Camilo Villanueva Montoya",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_default.svg",
+  "redes": {
+    "github": "https://github.com/juancamilovillanueva23-sys",
+    "linkedin": "https://linkedin.com/in/juancamilovillanueva23-sys",
+    "portafolio": "https://juancamilovillanueva23-sys.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Hazlo simple, mantenlo limpio.",
+  "estado": "Listo para colaborar"
+}];
+ 
 
 // Si se ejecuta en entorno Node/módulos
 if (typeof module !== 'undefined' && module.exports) {
