@@ -1,6 +1,6 @@
 {
-  "id": "juan-camilo-villanueva-montoya",
-  "nombreCompleto": "Juan Camilo Villanueva Montoya",
+  "id": "sharon-daliana-campos-tique",
+  "nombreCompleto": "Sharon Daliana Campos Tique",
   "ficha": "3294152",
   "programa": "Análisis y Desarrollo de Software",
   "rol": "Aprendiz / Desarrollador Junior",
@@ -18,10 +18,10 @@
   ],
   "avatar": "assets/avatares/avatar_default.svg",
   "redes": {
-    "github": "https://github.com/juancamilovillanueva23-sys",
-    "linkedin": "https://linkedin.com/in/juancamilovillanueva23-sys",
-    "portafolio": "https://juancamilovillanueva23-sys.github.io/mi-perfil-sena"
+    "github": "https://github.com/mi-usuario-github",
+    "linkedin": "https://linkedin.com/in/mi-usuario-github",
+    "portafolio": "https://mi-usuario-github.github.io/mi-perfil-sena"
   },
-  "fraseFavorita": "Hazlo simple, mantenlo limpio.",
-  "estado": "Listo para colaborar todo el tiempo"
+  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "estado": "Listo para colaborar"
 }
