@@ -100,7 +100,7 @@ git branch --show-current
 ```
 
 ### Git me pide usuario y contraseña al hacer push:
-Desde 2021, GitHub requiere un **Personal Access Token (PAT)** o autenticación mediante **GitHub Desktop / SSH / VS Code OAuth** en lugar de tu contraseña tradicional. En VS Code, simplemente haz clic en "Permitir / Iniciar sesión con GitHub" en la ventana emergente.
+Desde 2021, GitHub requiere un **Personal Access Token (PAT)** o autenticación mediante **GitHub Desktop / SSH / VS Code OAuth** en lugar de tu contraseña tradicional. En VS Code, simplemente haz clic en "Permitir / Iniciar sesión con GitHub" en la ventana emergente hoy.
 
 ---
 
